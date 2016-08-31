@@ -12,4 +12,4 @@ parseMessage log = case log of
                               getInt n = toInt (splitWords !! n)
                               toInt  x = (read x)::Int
 
-parse = (map parseMessage). lines
+parse = map parseMessage . lines
