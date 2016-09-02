@@ -21,3 +21,9 @@
 1. [Exercise_1.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_3/Exercise_1.hs)
 2. [Exercise_2.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_3/Exercise_2.hs)
 3. [Exercise_3.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_3/Exercise_3.hs)
+
+###Homework 4
+1. [Exercise_1.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_4/Exercise_1.hs)
+2. [Exercise_2.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_4/Exercise_2.hs)
+3. [Exercise_3.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_4/Exercise_3.hs)
+4. [Exercise_4.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_4/Exercise_4.hs)
