@@ -27,3 +27,12 @@
 2. [Exercise_2.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_4/Exercise_2.hs)
 3. [Exercise_3.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_4/Exercise_3.hs)
 4. [Exercise_4.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_4/Exercise_4.hs)
+
+###Homework 5
+[ [ExprT.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_5/ExprT.hs) [Parser.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_5/Parser.hs) [StackVM.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_5/StackVM.hs)]
+
+1. [Exercise_1.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_5/Exercise_1.hs)
+2. [Exercise_2.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_5/Exercise_2.hs)
+3. [Exercise_3.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_5/Exercise_3.hs)
+4. [Exercise_4.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_5/Exercise_4.hs)
+5. [Exercise_6.hs](https://github.com/RahnX/UPENN-Haskell/blob/master/Homework_5/Exercise_6.hs)
