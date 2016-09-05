@@ -1,5 +1,7 @@
 {-# LANGUAGE FlexibleInstances #-}
 
+module Exercise_6 where
+
 import qualified Data.Map as M
 import Exercise_3
 
